@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/BP_HealthComp.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/PlayerAssets/BP_CharacterBase.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset",
+				"C:/UnrealClassProject/ClassProject-TEMPLATE-main/Content/Fab/Weapons/Pipe/Materials/MI_wcvoagh.uasset"
+			]
+		}
+	]
+}
